@@ -1,18 +1,48 @@
 [
   {
-    "title": "Example Partner",
-    "url": "https://example.com",
-    "image": "https://example.com/card-image.png"
+    "title": "Meld",
+    "url": "https://discord.gg/7G2SfhqYH2",
+    "image": "https://ik.imagekit.io/rckdebdbt/9eff50041e06c0cefc6e2d90820fcf16.png"
   },
     {
-    "title": "Example Partner",
-    "url": "https://example.com",
-    "image": "https://example.com/card-image.png"
+    "title": "Aspen",
+    "url": "https://squall.cc",
+    "image": "https://ik.imagekit.io/rckdebdbt/f492ebc7b54581cc90216c134635e247.png"
   },
-
-  {
-    "title": "Example Partner",
-    "url": "https://example.com",
-    "image": "https://example.com/card-image.png"
+      {
+    "title": "ivy",
+    "url": "https://meteorshower.space",
+    "image": "https://ik.imagekit.io/rckdebdbt/9c6b10461f8af32c1ce70577b18e2ad4.webp"
+  },
+      {
+    "title": "Sacred Games Society",
+    "url": "https://discord.gg/xP9aQUuVDZc",
+    "image": "https://ik.imagekit.io/rckdebdbt/a884e76888bc4f139cb99de9cc5fe947.webp"
+  },
+      {
+    "title": "Alasis",
+    "url": "https://alasis.portal-network.com",
+    "image": "https://ik.imagekit.io/rckdebdbt/f49619d1772deda5d9956d79a7775860.webp"
+  },
+        {
+    "title": "Vertx",
+    "url": "https://discord.gg/xDjThdX58d",
+    "image": "https://ik.imagekit.io/rckdebdbt/c484f72366f0e9d3ece936e1b8ef297e.webp"
+  },
+        {
+    "title": "Potato land",
+    "url": "https://potatoland.dev/",
+    "image": "https://ik.imagekit.io/rckdebdbt/a_fe79501f39101614389421889522d5d3.webp"
+  },
+          {
+    "title": "Geeked",
+    "url": "https://geekedproxy.firebaseapp.com/",
+    "image": "https://ik.imagekit.io/rckdebdbt/23e9cd4c07eba5e626c49b21e2ea4016.webp"
+  },
+          {
+    "title": "Proxy Pursuit",
+    "url": "https://discord.gg/mjRQwSYhzq",
+    "image": "https://ik.imagekit.io/rckdebdbt/2190652cc2398e6e873bf3a1598e700e.webp"
   }
+
 ]
