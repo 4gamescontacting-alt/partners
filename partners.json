@@ -3,5 +3,16 @@
     "title": "Example Partner",
     "url": "https://example.com",
     "image": "https://example.com/card-image.png"
+  },
+    {
+    "title": "Example Partner",
+    "url": "https://example.com",
+    "image": "https://example.com/card-image.png"
+  },
+
+  {
+    "title": "Example Partner",
+    "url": "https://example.com",
+    "image": "https://example.com/card-image.png"
   }
 ]
